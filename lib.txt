@@ -1,0 +1,12 @@
+p 1111 Sufian Eng
+p 1122 Aya Eco
+s 11723462 Ali
+b 4775837 ethics Sultan 1988
+s 11873663 Saleem
+b 45728733 computerProg Samira 1998
+p 1133 Sameer IT
+s 11633727 Salma
+s 1192283 Mariam
+p 1134 Murad IT
+b 1238773133 java Emad 2015
+b 9834745 mathTheory Mariana 1979
