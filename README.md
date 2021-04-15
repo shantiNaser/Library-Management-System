@@ -26,8 +26,9 @@ Menue
 7.	returning a book
 8.	listing the available books
 9.	listing the borrowed books
-10.	listing the users.
-11.	Exit
+ 10.	listing the users.
+ 11.	Exit
 
 Enter Your Choice:____
+
 Test your program. Provide data form a file where there is a library with around 10 books and 6 users.
